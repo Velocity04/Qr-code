@@ -42,7 +42,7 @@ p {
     text-align: center;
     font-size: 15px;
     font-weight: 400;
-    color: hsl(212, 45%, 89%);
+    color: rgb(51, 55, 59)
 }
 
 .attribution {
